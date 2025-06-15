@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">My Profile App</string>
+
+    <!-- Screen titles -->
+    <string name="my_account">My Account</string>
+    <string name="edit_profile">Edit Profile</string>
+
+    <!-- Menu items -->
+    <string name="profile">Profile</string>
+    <string name="password">Password</string>
+    <string name="language">Language</string>
+    <string name="help">Help</string>
+    <string name="setting">Setting</string>
+    <string name="log_out">Log out</string>
+
+    <!-- Form labels -->
+    <string name="full_name">FULL NAME</string>
+    <string name="nim">NIM</string>
+    <string name="jurusan">JURUSAN</string>
+    <string name="angkatan">ANGKATAN</string>
+    <string name="email">EMAIL</string>
+    <string name="phone">PHONE</string>
+    <string name="gender">Gender</string>
+
+    <!-- Hints -->
+    <string name="full_name_hint">Full Name</string>
+    <string name="nim_hint">Nim</string>
+    <string name="jurusan_hint">Jurusan</string>
+    <string name="angkatan_hint">Angkatan berapa</string>
+    <string name="email_hint">example@gmail.com</string>
+    <string name="phone_hint">+84</string>
+
+    <!-- Buttons -->
+    <string name="update">Update</string>
+
+    <!-- Default values -->
+    <string name="default_username">W TEI</string>
+
+    <!-- Gender options -->
+    <string-array name="gender_options">
+        <item>Select an option</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- Content descriptions for accessibility -->
+    <string name="back_button">Back button</string>
+    <string name="profile_image">Profile image</string>
+    <string name="change_photo">Change photo</string>
+    <string name="menu_arrow">Menu arrow</string>
+</resources>
